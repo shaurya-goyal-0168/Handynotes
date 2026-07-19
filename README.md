@@ -12,9 +12,9 @@ Frontend has been completely made using pure **HTML**, **Javascript** and **CSS*
 
 # ScreenShot
 
-![Screenshot (776)](https://user-images.githubusercontent.com/79283176/162963457-71bd4a21-f73b-4957-9f86-14f9e805fc5f.png)
-![Screenshot (778)](https://user-images.githubusercontent.com/79283176/162963472-10b90ffe-4481-41f1-b20e-e57576dce1fa.png)
-
+<img width="1917" height="910" alt="Screenshot 2026-07-19 183408" src="https://github.com/user-attachments/assets/0166bbd1-6091-44fd-b799-8765fff510b9" />
+<img width="1916" height="912" alt="screenshot_login" src="https://github.com/user-attachments/assets/c38ec11a-c856-44bc-9ebf-04c39b4bfa90" />
+<img width="1893" height="872" alt="Screenshot 2026-07-19 184016" src="https://github.com/user-attachments/assets/d32a9e5f-54fa-43a9-ab48-e0fa0b6d9010" />
 
 
 ## Pending Tasks:
