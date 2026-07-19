@@ -13,7 +13,6 @@ Frontend has been completely made using pure **HTML**, **Javascript** and **CSS*
 # ScreenShot
 
 ![Screenshot (776)](https://user-images.githubusercontent.com/79283176/162963457-71bd4a21-f73b-4957-9f86-14f9e805fc5f.png)
-![Screenshot (777)](https://raw.githubusercontent.com/Anjali7992/My_Notes_App/main/Screenshot%20(777).png)
 ![Screenshot (778)](https://user-images.githubusercontent.com/79283176/162963472-10b90ffe-4481-41f1-b20e-e57576dce1fa.png)
 
 
